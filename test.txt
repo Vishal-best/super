@@ -1,1 +1,2 @@
 this si a test file for merge and conflict example.
+this is also a line.
