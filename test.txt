@@ -1,1 +1,1 @@
-this si a test file for merge
+this si a test file for merge and conflict example.
